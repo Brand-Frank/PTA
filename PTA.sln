@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PTA", "PTA\PTA.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1001.害死人不偿命的(3n+1)猜想", "1001.害死人不偿命的(3n+1)猜想\1001.害死人不偿命的(3n+1)猜想.vcxproj", "{47809564-845E-4902-BEBC-F518166610BD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1002.写出这个数", "1002. 写出这个数\1002. 写出这个数.vcxproj", "{B9060396-E464-490D-822B-4DE35AAAD100}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{47809564-845E-4902-BEBC-F518166610BD}.Release|x64.Build.0 = Release|x64
 		{47809564-845E-4902-BEBC-F518166610BD}.Release|x86.ActiveCfg = Release|Win32
 		{47809564-845E-4902-BEBC-F518166610BD}.Release|x86.Build.0 = Release|Win32
+		{B9060396-E464-490D-822B-4DE35AAAD100}.Debug|x64.ActiveCfg = Debug|x64
+		{B9060396-E464-490D-822B-4DE35AAAD100}.Debug|x64.Build.0 = Debug|x64
+		{B9060396-E464-490D-822B-4DE35AAAD100}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9060396-E464-490D-822B-4DE35AAAD100}.Debug|x86.Build.0 = Debug|Win32
+		{B9060396-E464-490D-822B-4DE35AAAD100}.Release|x64.ActiveCfg = Release|x64
+		{B9060396-E464-490D-822B-4DE35AAAD100}.Release|x64.Build.0 = Release|x64
+		{B9060396-E464-490D-822B-4DE35AAAD100}.Release|x86.ActiveCfg = Release|Win32
+		{B9060396-E464-490D-822B-4DE35AAAD100}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
